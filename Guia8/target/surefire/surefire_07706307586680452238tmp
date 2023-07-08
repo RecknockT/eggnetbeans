@@ -1,0 +1,8 @@
+#surefire_0
+#Sat Apr 22 19:02:36 ART 2023
+maven.ext.class.path=C\:\\Program Files\\NetBeans-17\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+test=Servicios.PersonaServicioTest
+basedir=C\:\\Users\\ffune\\Documents\\NetBeansProjects\\Guia8
+user.dir=C\:\\Users\\ffune\\Documents\\NetBeansProjects\\Guia8
+localRepository=C\:\\Users\\ffune\\.m2\\repository
